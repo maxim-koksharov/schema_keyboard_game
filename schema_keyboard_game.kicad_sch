@@ -144,6 +144,130 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:R"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Espressif:ESP32-S3-DevKitC"
 			(pin_names
 				(offset 1.016)
@@ -2636,6 +2760,10 @@
 	(no_connect
 		(at 140.97 250.19)
 		(uuid "8c78b9a7-9c3b-4477-94d6-8a18ebe62f03")
+	)
+	(no_connect
+		(at 542.29 356.87)
+		(uuid "a9d2bd9d-75fb-483e-8613-b52aa7e6e782")
 	)
 	(no_connect
 		(at 140.97 321.31)
@@ -5887,6 +6015,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 270.51) (xy 90.17 270.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4964875-8502-4083-af41-9fdb6c16e9b8")
+	)
+	(wire
+		(pts
 			(xy 266.7 62.23) (xy 271.78 62.23)
 		)
 		(stroke
@@ -6194,6 +6332,16 @@
 			(type default)
 		)
 		(uuid "e6ec3686-ccbb-4ed3-8c4e-28d486e62a70")
+	)
+	(wire
+		(pts
+			(xy 69.85 270.51) (xy 73.66 270.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e72e72d1-8f22-4d11-bbd6-c658ae4a719e")
 	)
 	(wire
 		(pts
@@ -7865,16 +8013,6 @@
 		)
 		(uuid "84cda569-627d-427f-9794-d3df637eb6b7")
 	)
-	(label "rgb_out"
-		(at 542.29 356.87 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "872381d5-6e0e-4eb2-a11f-a3a2ed8a7412")
-	)
 	(label "cl_8"
 		(at 165.1 110.49 90)
 		(effects
@@ -8075,8 +8213,8 @@
 		)
 		(uuid "9c238270-a298-4f58-af15-a586a84ee16a")
 	)
-	(label "backlight"
-		(at 90.17 270.51 180)
+	(label "rgb_in"
+		(at 69.85 270.51 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17758,6 +17896,74 @@
 			(project "schema_keyboard_game"
 				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
 					(reference "SW31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 77.47 270.51 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "31a57f29-7fe7-4291-aaed-e69e6279cc50")
+		(property "Reference" "R1"
+			(at 77.47 264.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470 OM"
+			(at 77.47 266.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 77.47 272.288 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 77.47 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 77.47 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9a0277e2-aaf3-4fcb-8b09-d1470211b27e")
+		)
+		(pin "2"
+			(uuid "67381956-ef94-45ce-9d96-e0e235839c6d")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "R1")
 					(unit 1)
 				)
 			)
