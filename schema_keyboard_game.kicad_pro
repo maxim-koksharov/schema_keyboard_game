@@ -226,7 +226,32 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "duplicate_pins|1104900|2362200|55eb1040-cea1-4295-8da9-2013d52239d6|4f3e0027-cfbb-4044-aae0-77bb46975e87|/a48886e6-db89-45aa-9ff6-6672930f6948|/a48886e6-db89-45aa-9ff6-6672930f6948|/a48886e6-db89-45aa-9ff6-6672930f6948",
+        ""
+      ],
+      [
+        "duplicate_pins|1930400|1816100|da516cfc-7895-4b35-985c-8b122bd5c2c4|a6a11097-1e29-44c9-825d-f5606d6c23ee|/a48886e6-db89-45aa-9ff6-6672930f6948|/a48886e6-db89-45aa-9ff6-6672930f6948|/a48886e6-db89-45aa-9ff6-6672930f6948",
+        ""
+      ],
+      [
+        "pin_not_connected|1104900|2362200|55eb1040-cea1-4295-8da9-2013d52239d6|00000000-0000-0000-0000-000000000000|/a48886e6-db89-45aa-9ff6-6672930f6948|/a48886e6-db89-45aa-9ff6-6672930f6948|",
+        ""
+      ],
+      [
+        "pin_to_pin|901700|1917700|22a4a31c-c68a-4d58-bbc2-d004a507a0ec|98269570-bdd3-4dbf-b733-4d7c0b1837b3|/a48886e6-db89-45aa-9ff6-6672930f6948|/a48886e6-db89-45aa-9ff6-6672930f6948|/a48886e6-db89-45aa-9ff6-6672930f6948",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1079500|2362200|260197c4-8fe7-4ccc-9dc5-07421fdd4e10|00000000-0000-0000-0000-000000000000|/a48886e6-db89-45aa-9ff6-6672930f6948|/a48886e6-db89-45aa-9ff6-6672930f6948|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1092200|3276600|6817337d-d0ad-4e85-abb0-39e7551970df|00000000-0000-0000-0000-000000000000|/a48886e6-db89-45aa-9ff6-6672930f6948|/a48886e6-db89-45aa-9ff6-6672930f6948|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -451,7 +476,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "key_game.kicad_pro",
+    "filename": "schema_keyboard_game.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -597,6 +622,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
