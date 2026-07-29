@@ -470,6 +470,206 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector_Generic:Conn_01x04"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x04"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x04_1_1"
+				(rectangle
+					(start -1.27 3.81)
+					(end 1.27 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -10760,7 +10960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 298.45 240.03 0)
 			(effects
 				(font
@@ -10911,7 +11111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 93.98 46.99 0)
 			(effects
 				(font
@@ -10993,7 +11193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 210.82 95.25 0)
 			(effects
 				(font
@@ -11140,7 +11340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 298.45 46.99 0)
 			(effects
 				(font
@@ -12074,7 +12274,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 298.45 191.77 0)
 			(effects
 				(font
@@ -12489,7 +12689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 210.82 433.07 0)
 			(effects
 				(font
@@ -12571,7 +12771,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 269.24 240.03 0)
 			(effects
 				(font
@@ -13045,7 +13245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 64.77 288.29 0)
 			(effects
 				(font
@@ -13517,7 +13717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 210.82 143.51 0)
 			(effects
 				(font
@@ -13794,7 +13994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 35.56 143.51 0)
 			(effects
 				(font
@@ -14402,7 +14602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 93.98 143.51 0)
 			(effects
 				(font
@@ -14484,7 +14684,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 210.82 240.03 0)
 			(effects
 				(font
@@ -15112,7 +15312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 152.4 95.25 0)
 			(effects
 				(font
@@ -15259,7 +15459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 298.45 143.51 0)
 			(effects
 				(font
@@ -15341,7 +15541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 123.19 433.07 0)
 			(effects
 				(font
@@ -15459,6 +15659,73 @@
 			(project "schema_keyboard_game"
 				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
 					(reference "C30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 483.87 128.27 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "20717196-f604-4406-80bb-23f2bf622e32")
+		(property "Reference" "#PWR0315"
+			(at 477.52 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 480.06 128.2699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 483.87 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 483.87 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 483.87 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "24ed0cc7-9a50-4cf0-84e1-ea4912d4f15e")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "#PWR0315")
 					(unit 1)
 				)
 			)
@@ -16231,7 +16498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 64.77 384.81 0)
 			(effects
 				(font
@@ -16378,7 +16645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 240.03 240.03 0)
 			(effects
 				(font
@@ -16460,7 +16727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 64.77 336.55 0)
 			(effects
 				(font
@@ -16882,7 +17149,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 123.19 384.81 0)
 			(effects
 				(font
@@ -17029,7 +17296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 240.03 46.99 0)
 			(effects
 				(font
@@ -17342,6 +17609,82 @@
 			(project "schema_keyboard_game"
 				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
 					(reference "#PWR0262")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 488.95 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2c4a3552-8887-4648-9e07-fe12801335b2")
+		(property "Reference" "J2"
+			(at 491.49 125.7299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x04"
+			(at 491.49 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+			(at 488.95 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 488.95 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 488.95 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1a80da96-0315-47de-ab2d-4298dedab6e8")
+		)
+		(pin "2"
+			(uuid "54530e1f-f7f9-4553-a29d-c9c89dafe53e")
+		)
+		(pin "4"
+			(uuid "e43d1cdf-0cbb-4075-ba69-c6b8683b29a4")
+		)
+		(pin "3"
+			(uuid "2ed88543-be67-4b2e-8e9a-effd9cddeaca")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -18362,7 +18705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 240.03 336.55 0)
 			(effects
 				(font
@@ -18639,7 +18982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 181.61 240.03 0)
 			(effects
 				(font
@@ -19139,7 +19482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 210.82 336.55 0)
 			(effects
 				(font
@@ -19895,7 +20238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 123.19 46.99 0)
 			(effects
 				(font
@@ -19977,7 +20320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 240.03 481.33 0)
 			(effects
 				(font
@@ -20319,7 +20662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 269.24 288.29 0)
 			(effects
 				(font
@@ -20531,7 +20874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 152.4 240.03 0)
 			(effects
 				(font
@@ -20942,7 +21285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 298.45 384.81 0)
 			(effects
 				(font
@@ -21024,7 +21367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 93.98 95.25 0)
 			(effects
 				(font
@@ -21106,7 +21449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 123.19 143.51 0)
 			(effects
 				(font
@@ -21590,7 +21933,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 210.82 46.99 0)
 			(effects
 				(font
@@ -21806,7 +22149,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 93.98 240.03 0)
 			(effects
 				(font
@@ -22152,7 +22495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 123.19 191.77 0)
 			(effects
 				(font
@@ -22299,7 +22642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 64.77 191.77 0)
 			(effects
 				(font
@@ -23151,6 +23494,71 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
+		(at 483.87 123.19 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5726922e-8ce9-4284-9825-d5f82cf9a22a")
+		(property "Reference" "#PWR0313"
+			(at 487.68 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 478.028 122.936 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 483.87 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 483.87 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 483.87 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "df29446b-70bb-4d74-9fdc-b06c8d0c0393")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "#PWR0313")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
 		(at 88.9 414.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -23242,7 +23650,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 210.82 481.33 0)
 			(effects
 				(font
@@ -24132,7 +24540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 123.19 336.55 0)
 			(effects
 				(font
@@ -24872,7 +25280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 181.61 95.25 0)
 			(effects
 				(font
@@ -24954,7 +25362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 152.4 433.07 0)
 			(effects
 				(font
@@ -25166,7 +25574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 93.98 384.81 0)
 			(effects
 				(font
@@ -26191,7 +26599,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 181.61 288.29 0)
 			(effects
 				(font
@@ -26358,7 +26766,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 35.56 288.29 0)
 			(effects
 				(font
@@ -26574,7 +26982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 93.98 191.77 0)
 			(effects
 				(font
@@ -26656,7 +27064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 64.77 143.51 0)
 			(effects
 				(font
@@ -27485,7 +27893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 93.98 433.07 0)
 			(effects
 				(font
@@ -29240,7 +29648,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 240.03 384.81 0)
 			(effects
 				(font
@@ -29582,7 +29990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 240.03 288.29 0)
 			(effects
 				(font
@@ -29664,7 +30072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 35.56 336.55 0)
 			(effects
 				(font
@@ -30274,7 +30682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 269.24 481.33 0)
 			(effects
 				(font
@@ -30356,7 +30764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 123.19 240.03 0)
 			(effects
 				(font
@@ -30641,7 +31049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 181.61 46.99 0)
 			(effects
 				(font
@@ -31052,7 +31460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 240.03 191.77 0)
 			(effects
 				(font
@@ -31329,7 +31737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 152.4 46.99 0)
 			(effects
 				(font
@@ -31411,7 +31819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 269.24 191.77 0)
 			(effects
 				(font
@@ -31493,7 +31901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 181.61 143.51 0)
 			(effects
 				(font
@@ -31839,7 +32247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 35.56 46.99 0)
 			(effects
 				(font
@@ -31986,7 +32394,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 64.77 240.03 0)
 			(effects
 				(font
@@ -32068,7 +32476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 181.61 191.77 0)
 			(effects
 				(font
@@ -32422,7 +32830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 269.24 143.51 0)
 			(effects
 				(font
@@ -32504,7 +32912,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 93.98 288.29 0)
 			(effects
 				(font
@@ -32651,7 +33059,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 93.98 336.55 0)
 			(effects
 				(font
@@ -32798,7 +33206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 123.19 95.25 0)
 			(effects
 				(font
@@ -33010,7 +33418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 93.98 481.33 0)
 			(effects
 				(font
@@ -33295,7 +33703,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 35.56 384.81 0)
 			(effects
 				(font
@@ -33446,7 +33854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 35.56 191.77 0)
 			(effects
 				(font
@@ -33528,7 +33936,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 269.24 95.25 0)
 			(effects
 				(font
@@ -34024,7 +34432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 269.24 384.81 0)
 			(effects
 				(font
@@ -34106,7 +34514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 152.4 481.33 0)
 			(effects
 				(font
@@ -34318,7 +34726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 181.61 433.07 0)
 			(effects
 				(font
@@ -35199,7 +35607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 298.45 336.55 0)
 			(effects
 				(font
@@ -35281,7 +35689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 298.45 481.33 0)
 			(effects
 				(font
@@ -35363,7 +35771,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 298.45 95.25 0)
 			(effects
 				(font
@@ -36250,7 +36658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 35.56 433.07 0)
 			(effects
 				(font
@@ -36401,7 +36809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 240.03 95.25 0)
 			(effects
 				(font
@@ -36483,7 +36891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 181.61 336.55 0)
 			(effects
 				(font
@@ -36695,7 +37103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 152.4 143.51 0)
 			(effects
 				(font
@@ -37303,7 +37711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 240.03 433.07 0)
 			(effects
 				(font
@@ -37937,7 +38345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 152.4 384.81 0)
 			(effects
 				(font
@@ -38019,7 +38427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 181.61 384.81 0)
 			(effects
 				(font
@@ -38496,7 +38904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 240.03 143.51 0)
 			(effects
 				(font
@@ -38578,7 +38986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 152.4 191.77 0)
 			(effects
 				(font
@@ -38790,7 +39198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 269.24 46.99 0)
 			(effects
 				(font
@@ -38941,7 +39349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 152.4 288.29 0)
 			(effects
 				(font
@@ -39219,7 +39627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 181.61 481.33 0)
 			(effects
 				(font
@@ -39573,7 +39981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 298.45 433.07 0)
 			(effects
 				(font
@@ -39785,7 +40193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 210.82 384.81 0)
 			(effects
 				(font
@@ -40659,7 +41067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 35.56 481.33 0)
 			(effects
 				(font
@@ -41533,7 +41941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 64.77 481.33 0)
 			(effects
 				(font
@@ -42277,7 +42685,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 210.82 288.29 0)
 			(effects
 				(font
@@ -42424,7 +42832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 210.82 191.77 0)
 			(effects
 				(font
@@ -42737,6 +43145,71 @@
 			(project "schema_keyboard_game"
 				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
 					(reference "#PWR0138")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 483.87 125.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dbcd833c-bc12-4a08-968c-3d22f86646cb")
+		(property "Reference" "#PWR0314"
+			(at 487.68 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 477.52 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 483.87 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 483.87 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 483.87 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9327e629-bdf0-48d7-b5a5-36eb72b57574")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "#PWR0314")
 					(unit 1)
 				)
 			)
@@ -43695,7 +44168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 35.56 240.03 0)
 			(effects
 				(font
@@ -44240,7 +44713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 269.24 336.55 0)
 			(effects
 				(font
@@ -44452,7 +44925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 123.19 481.33 0)
 			(effects
 				(font
@@ -44668,7 +45141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 298.45 288.29 0)
 			(effects
 				(font
@@ -44949,7 +45422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 64.77 46.99 0)
 			(effects
 				(font
@@ -45165,7 +45638,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 269.24 433.07 0)
 			(effects
 				(font
@@ -45247,7 +45720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 123.19 288.29 0)
 			(effects
 				(font
@@ -46427,6 +46900,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 483.87 130.81 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f6f3668c-9d93-4baf-851a-21e860734757")
+		(property "Reference" "#PWR0316"
+			(at 477.52 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 480.06 130.8099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 483.87 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 483.87 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 483.87 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cad6fee2-4fd8-48cc-a097-9d0c8139ee20")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "#PWR0316")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 492.76 219.71 90)
 		(unit 1)
@@ -46651,7 +47191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 64.77 433.07 0)
 			(effects
 				(font
@@ -46863,7 +47403,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 64.77 95.25 0)
 			(effects
 				(font
@@ -47416,7 +47956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 152.4 336.55 0)
 			(effects
 				(font
@@ -48139,7 +48679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Library:SW_Cherry_MX_LED"
+		(property "Footprint" "Library:SW_Cherry_MX_LED_2"
 			(at 35.56 95.25 0)
 			(effects
 				(font
