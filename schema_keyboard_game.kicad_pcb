@@ -3091,13 +3091,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "0b77edaa-b5fd-4850-bd70-9c8a41914d39")
-		(at 77.32 176.825)
+		(at 79.86 184.445)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW51"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "acecff13-a27a-49db-b9a7-bef88499eb6c")
+			(uuid "4c8e8b1e-d5a8-4ccf-8e04-c39b60f59b9d")
 			(effects
 				(font
 					(size 1 1)
@@ -3108,7 +3108,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "cfc30035-56d6-45b8-97d7-5eb3c3feed93")
+			(uuid "ca91abee-1320-407d-84dd-ed58a498cc03")
 			(effects
 				(font
 					(size 1 1)
@@ -3121,7 +3121,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a857849d-9d9e-495c-868d-821ee58cabb1")
+			(uuid "c887de73-13f3-417b-9b0b-c68766c141b0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3134,7 +3134,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bd95287b-1fc0-453c-be80-c7cca7c75c74")
+			(uuid "6867bb39-6b5f-4345-a5b9-b01ad0b8f6aa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6527,13 +6527,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "17ac44d8-dc25-41cc-ac2a-70a5cc3b1984")
-		(at 92.41 209.375)
+		(at 94.95 216.995)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW72"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "58dced02-214d-4af6-8fd2-cdf98e1da4ec")
+			(uuid "691f3e0c-4df6-41f7-aefe-d6b3f672ec83")
 			(effects
 				(font
 					(size 1 1)
@@ -6544,7 +6544,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "eb70da3d-06f9-4fbd-b4de-4e5df1a129b0")
+			(uuid "b0b14bc0-2c54-45f5-a628-854d8000c0be")
 			(effects
 				(font
 					(size 1 1)
@@ -6557,7 +6557,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1e6ea5eb-2734-45ec-af28-ddc7df863658")
+			(uuid "b1bb0527-d43a-4d59-bf49-8ca8930dee48")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6570,7 +6570,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2f451afd-a127-424d-ba87-ec31fd303908")
+			(uuid "3e88c04f-e2cf-4ab5-be68-4588e1afff51")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7344,13 +7344,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "1cd6a3c4-bfa9-46d7-820d-051461fcf4eb")
-		(at 92.41 225.65)
+		(at 94.95 233.27)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW82"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "7486948b-d7c2-4895-8246-6d0bd333f232")
+			(uuid "2eda119f-3f54-43bb-81d4-4a91131b90e7")
 			(effects
 				(font
 					(size 1 1)
@@ -7361,7 +7361,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "5e867b45-eba8-4cdb-ac85-4d62c0264bc6")
+			(uuid "3a9e6172-6f49-41c7-8495-3d441a57e31d")
 			(effects
 				(font
 					(size 1 1)
@@ -7374,7 +7374,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d1e339ed-e3b6-4eb4-8a5e-b9df2cbb5383")
+			(uuid "d0277450-a527-478b-8ddf-99ef3ee395a8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7387,7 +7387,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83aa9501-964b-4308-88d7-0b3578641b09")
+			(uuid "ba1e351e-c344-463d-964a-f949ccb1be23")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16555,13 +16555,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "3e5e67d5-f84b-4a34-8f0f-3323feee03e2")
-		(at 107.5 209.375)
+		(at 110.04 216.995)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW73"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "76c959fc-8c65-4ca0-ad92-5f3a6049cf8a")
+			(uuid "94002ba8-d1e0-446b-9f7a-6d081a53974d")
 			(effects
 				(font
 					(size 1 1)
@@ -16572,7 +16572,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "5934d172-4fe7-4372-b769-31a1190a575c")
+			(uuid "a3600342-7798-4c1b-b5bc-0a84e9bdc82e")
 			(effects
 				(font
 					(size 1 1)
@@ -16585,7 +16585,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "23a57da3-f8a0-4cc3-9986-9997e15e2749")
+			(uuid "a4451b11-4e42-48f0-a907-86b5f137d70d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16598,7 +16598,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "18587481-a3eb-4b4f-a033-e4a2efbf8ffe")
+			(uuid "663f86c3-9a5c-42cd-b65e-5da9ff0e4f9b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18892,13 +18892,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "46154667-b747-4e0e-8c3d-0c199cd64c30")
-		(at 77.32 225.65)
+		(at 79.86 233.27)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW81"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "c96d66ae-6398-4cdc-a37b-9ce53079a768")
+			(uuid "ca146a92-2a08-4c9d-9878-847ac91571d3")
 			(effects
 				(font
 					(size 1 1)
@@ -18909,7 +18909,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "fa7781ed-add9-488e-a951-45617711b78d")
+			(uuid "8f77e995-2294-49d5-b251-265e5dd2add3")
 			(effects
 				(font
 					(size 1 1)
@@ -18922,7 +18922,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "21e60e20-5f83-4921-b65b-45d8bd202460")
+			(uuid "5a1eb92a-b271-42f4-a855-ceeb22a27b46")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18935,7 +18935,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "35b23d46-cb46-4332-8aca-daf805b85198")
+			(uuid "ade16a2f-130f-4700-ac3e-069fb997344e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19709,13 +19709,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "49fcc207-e396-4f63-97ad-b303f7853d38")
-		(at 92.41 111.725)
+		(at 94.95 119.345)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW12"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "437f7301-3516-45a0-8957-7ebf3d8cd0a5")
+			(uuid "504f4c6c-419f-4565-8a77-0c0fee81d8af")
 			(effects
 				(font
 					(size 1 1)
@@ -19726,7 +19726,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "05ade349-5fa5-4ba1-8a76-d9fdb0064788")
+			(uuid "9f0676c4-349f-4113-ab22-5138bc9234e5")
 			(effects
 				(font
 					(size 1 1)
@@ -19739,7 +19739,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "99d8bfa9-b78f-44a3-b132-8896ee36c1ac")
+			(uuid "08e861b5-588f-4a68-b319-1e0fec7722d7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19752,7 +19752,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7003e860-820c-48e8-b2de-d6d262e083dc")
+			(uuid "b86568a4-64a9-45c9-8194-023cfbd9e415")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20551,15 +20551,16 @@
 		)
 	)
 	(footprint "Library:SW_Cherry_MX_LED_2"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "4b873446-b48f-4375-bbb5-c48a68ad99a7")
-		(at 92.41 95.45)
+		(at 34.29 49.53)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW2"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "86d318cf-bec6-4e80-b28d-36debc0714c8")
+			(uuid "cd91a9f0-a4b1-4abf-a8e7-a4db868f3e9c")
 			(effects
 				(font
 					(size 1 1)
@@ -20570,7 +20571,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "ca98b652-0e16-4483-bc49-2159f1e255c5")
+			(uuid "78903431-4dc4-45a6-87f2-86f0308a1ef5")
 			(effects
 				(font
 					(size 1 1)
@@ -20583,7 +20584,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aa49ca44-977e-49ce-b91d-989f41c75208")
+			(uuid "65e2affb-9991-47db-bef2-f9dbcdc289bc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20596,7 +20597,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "abce911b-de92-434b-9911-2ff898a51ccb")
+			(uuid "7133a6e5-6636-4124-bc41-760a65171b5e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21088,13 +21089,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "4bbe0ab1-e570-4474-b9e1-d76fffed7c6d")
-		(at 107.5 144.275)
+		(at 110.04 151.895)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW33"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "57055384-dcb7-499c-a311-19fe2a151cc7")
+			(uuid "89099ecc-0839-4cbc-ae78-61c042ce1849")
 			(effects
 				(font
 					(size 1 1)
@@ -21105,7 +21106,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "ea8c07a1-bbde-41af-be92-e92f5c18e94b")
+			(uuid "c39f83f5-bed4-4bce-800a-c0af8975d243")
 			(effects
 				(font
 					(size 1 1)
@@ -21118,7 +21119,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "842a04ca-23f5-4c3d-8912-ccb226d0f21b")
+			(uuid "a3d81c4a-7a6c-4a9c-b529-0869d61baf86")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21131,7 +21132,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "15f54afd-671c-4f8e-8ef1-4c2e4eba2785")
+			(uuid "9640f5c3-eec7-4e87-834d-a1e4f4d07a93")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21623,13 +21624,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "4c9e63ca-1fa8-4456-8e6b-ac5856f26b3b")
-		(at 92.41 241.925)
+		(at 94.95 249.545)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW92"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "2c3f3f4d-457f-47f7-81e5-48aa71731cbd")
+			(uuid "56623e99-5967-40d7-af65-ee3238fc7179")
 			(effects
 				(font
 					(size 1 1)
@@ -21640,7 +21641,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "a64798ea-4019-4795-b9d8-a654b9b5e947")
+			(uuid "18f11be8-c17b-49eb-893e-c8c20d847b96")
 			(effects
 				(font
 					(size 1 1)
@@ -21653,7 +21654,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "93b639c0-9872-4b0c-89c6-5f1af5e6dba0")
+			(uuid "27bed0ba-86d7-4c52-ba5f-d0b1340233ae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21666,7 +21667,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4323f15f-2776-4b0c-9b52-eaa336232748")
+			(uuid "a5868552-d23c-4c37-ad75-5e0c0caace92")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25171,13 +25172,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "56979450-3451-4414-b01c-3bd4dab9cfe8")
-		(at 107.5 176.825)
+		(at 110.04 184.445)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW53"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "96bde890-a8a7-4f38-bda4-4205d0d86666")
+			(uuid "eae8c8d1-4b11-493e-af8c-3ba5500dc5d9")
 			(effects
 				(font
 					(size 1 1)
@@ -25188,7 +25189,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "669ce118-e02c-4c23-8297-8810ba53bdea")
+			(uuid "bc152d4d-4602-431e-9e27-c3b5d593d73a")
 			(effects
 				(font
 					(size 1 1)
@@ -25201,7 +25202,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "972f06f1-8479-46a1-8d21-6d329b6fb8b4")
+			(uuid "27d3450b-c00c-428d-b558-a4fe6d8e6f6d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25214,7 +25215,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dddd9b29-c155-4ea3-9092-a6f80fa7cb9b")
+			(uuid "d79c6408-277b-452d-9039-bf1b69a08f71")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25988,13 +25989,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "57335d5d-861d-4c08-a2fb-96c11a1681fc")
-		(at 107.5 111.725)
+		(at 110.04 119.345)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW13"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "2a3fd46c-0323-4e22-9366-833dac4623f9")
+			(uuid "6b1ce980-714d-4241-95c0-8b20e20c7345")
 			(effects
 				(font
 					(size 1 1)
@@ -26005,7 +26006,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "87026e64-398b-4724-85ec-1d13e9e5f119")
+			(uuid "5b232469-ad81-433f-baf5-11267d6ba267")
 			(effects
 				(font
 					(size 1 1)
@@ -26018,7 +26019,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "28f0be52-eafb-4f2a-951f-63a5562f364c")
+			(uuid "290e7dd4-bfa5-44e6-ac14-37403dbc321b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26031,7 +26032,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "61f39272-dc69-4825-80bc-f7b0e6b2f1b5")
+			(uuid "083de42c-ebdd-4d68-bef1-5a457a0f17ca")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28690,15 +28691,16 @@
 		)
 	)
 	(footprint "Library:SW_Cherry_MX_LED_2"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "688313b0-3f46-4ecd-bb3f-962dc93bba6b")
-		(at 77.32 128)
+		(at 74.93 29.21)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW21"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "11910035-fd6b-49f9-ad73-af84440ef6a0")
+			(uuid "c40c1a3d-909b-472f-8004-7c6d03159ed5")
 			(effects
 				(font
 					(size 1 1)
@@ -28709,7 +28711,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "327d679a-1e0c-4644-91c9-9473f27b6cfa")
+			(uuid "4c697933-f715-4327-aeaa-19628cade2a8")
 			(effects
 				(font
 					(size 1 1)
@@ -28722,7 +28724,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7904a22c-957b-4b6a-9a68-a4782c0185b7")
+			(uuid "e80c2343-909e-482e-9a03-eb1b198cfdec")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28735,7 +28737,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a7475bcb-729f-4f95-aeee-f711328d5bc7")
+			(uuid "6184ccb1-386c-4763-92fc-58b868c9cfd4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29368,13 +29370,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "6a306315-fb08-4da0-b118-4c80375f59d0")
-		(at 107.5 193.1)
+		(at 110.04 200.72)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW63"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "8f71496d-7ffb-48d3-91aa-2f70cb5ec287")
+			(uuid "a33d939c-9223-49fc-9391-3851218020c9")
 			(effects
 				(font
 					(size 1 1)
@@ -29385,7 +29387,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "b5b5f3e0-e90d-4e5e-b675-a63e9edcf52e")
+			(uuid "63ba423a-8c1f-4ad7-96b0-f3c8dc66fbdf")
 			(effects
 				(font
 					(size 1 1)
@@ -29398,7 +29400,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "23978407-7771-4ea6-972e-8e24d46c4aa7")
+			(uuid "5800b846-0fdc-4013-a986-311d5f29deea")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29411,7 +29413,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "04a80cf6-d219-4548-bd85-beccbeb5879e")
+			(uuid "075ec7ab-8c42-4747-8918-ce2d827f1cf9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31591,9 +31593,10 @@
 		)
 	)
 	(footprint "Library:SW_Cherry_MX_LED_2"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "727b4e6f-20a0-42d3-968d-115ed10d1e25")
-		(at 137.68 95.45)
+		(at 34.29 110.49)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW5"
@@ -32126,15 +32129,16 @@
 		)
 	)
 	(footprint "Library:SW_Cherry_MX_LED_2"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "72b1480c-aa34-4d5a-bf4b-6486daf9b7a2")
-		(at 107.5 95.45)
+		(at 34.29 69.85)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW3"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "9f5b0123-fbeb-4171-af97-477b839e9d42")
+			(uuid "dab04e66-d6e3-42b1-b10d-b06f794e0bb9")
 			(effects
 				(font
 					(size 1 1)
@@ -32145,7 +32149,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "c89fecfa-ade2-427d-92bf-64b054043fcb")
+			(uuid "823140a2-505b-449e-a49b-b6e79e648af7")
 			(effects
 				(font
 					(size 1 1)
@@ -32158,7 +32162,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "335d891b-069c-4063-87fa-be7488d2b561")
+			(uuid "a2202996-937c-4d1a-872f-85fa2ebc49b4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32171,7 +32175,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "67e596ad-c4de-4692-a77b-020186fdb90f")
+			(uuid "b70aaea6-2bbb-47d7-8faa-39625339eeb2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34579,13 +34583,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "7ea1120c-1b5e-4cbe-bdef-5827f85d8218")
-		(at 77.32 160.55)
+		(at 79.86 168.17)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW41"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "291716c8-098a-4d73-8e26-91e70c4a9feb")
+			(uuid "2bc23b49-84b7-489b-919c-4efd6e5ee1fc")
 			(effects
 				(font
 					(size 1 1)
@@ -34596,7 +34600,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "c53e7ef0-2b94-4ff7-9709-e8ac89b6fd6f")
+			(uuid "d18136de-fea6-4a93-bb72-0f44f6e76d66")
 			(effects
 				(font
 					(size 1 1)
@@ -34609,7 +34613,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a26c2c11-6967-45f2-93ea-076613407af8")
+			(uuid "3c253e9d-2bdf-4446-8751-576b466e3dae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34622,7 +34626,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5b529945-c078-44ee-a534-95f3872b808b")
+			(uuid "c889e8e4-7712-4f08-a64b-e83d3a5d65c1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36860,13 +36864,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "80b22faf-90fc-4091-9ba8-a81f4f6f61e5")
-		(at 77.32 193.1)
+		(at 79.86 200.72)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW61"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "6a10387e-51fe-4a18-9f1e-afe9eb1f7a82")
+			(uuid "10e9f75b-c8f7-47f1-9961-e56e31696a6c")
 			(effects
 				(font
 					(size 1 1)
@@ -36877,7 +36881,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "40ae7bae-e495-45f7-91d8-cc99bb59886f")
+			(uuid "3f5e4149-d831-44b7-842b-828c25bd15cd")
 			(effects
 				(font
 					(size 1 1)
@@ -36890,7 +36894,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e601a2f3-f84b-4663-90a3-360ef518f92d")
+			(uuid "e0dc9c9e-2781-4d8f-b02b-9212e26ce4fb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36903,7 +36907,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "16df6822-32a4-46e9-8a58-8f7428749bfc")
+			(uuid "a611af62-fa7b-4d11-9ab1-06807bb35e60")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39987,13 +39991,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "85f60f69-881e-48b0-841d-e7f0a6677c06")
-		(at 92.41 160.55)
+		(at 94.95 168.17)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW42"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "60e9e75e-566a-4857-9333-ec52e796ae24")
+			(uuid "dc839acc-bbec-450e-84fd-6e45cece1b20")
 			(effects
 				(font
 					(size 1 1)
@@ -40004,7 +40008,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "99b6b028-8a1e-4f64-90d2-1f66e09d9acf")
+			(uuid "e1529e21-ba50-4337-aa64-b35d0134b1f9")
 			(effects
 				(font
 					(size 1 1)
@@ -40017,7 +40021,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "854555fe-b3b4-4d9d-b743-a5e4450deea0")
+			(uuid "3e6998ea-2e7c-48ba-96ef-c3f1250fcebc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40030,7 +40034,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c7990a76-b265-4b79-b136-68ae55e12fab")
+			(uuid "e4de2d1f-2bd9-46ce-a1bd-fa2b32e1e1c3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41903,13 +41907,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "8ee0cd30-4a0f-4ea8-88a6-0993993aa23a")
-		(at 92.41 176.825)
+		(at 94.95 184.445)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW52"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "47ed2db0-3479-429a-b500-8e2b5e1da39d")
+			(uuid "165b685c-1916-4dbf-ac37-3d0e75572ecf")
 			(effects
 				(font
 					(size 1 1)
@@ -41920,7 +41924,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "32e55ba3-4c1f-4e4c-acfe-8a0e2edc60e3")
+			(uuid "9a48e3ec-6a6b-45fb-8b96-0f7d9f60ec09")
 			(effects
 				(font
 					(size 1 1)
@@ -41933,7 +41937,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d46c78aa-9cc7-4bb3-873d-0e40dbca85f5")
+			(uuid "a161acb3-1680-4016-b11e-01ca6641d1d9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41946,7 +41950,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "88b6caa3-6c8b-4344-9380-e8bd41930524")
+			(uuid "7a07dabc-6e99-461f-b319-3649136cc0bf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42861,13 +42865,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "94572e07-64e4-4f89-90a7-3d062f594cd1")
-		(at 107.5 241.925)
+		(at 110.04 249.545)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW93"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "6e20a4b9-46d3-4f09-bd82-7b325f9cb46d")
+			(uuid "f95c4d12-386c-468a-9078-018e126f26e2")
 			(effects
 				(font
 					(size 1 1)
@@ -42878,7 +42882,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "8504d94a-e0a3-49e4-9204-a246f6e807ee")
+			(uuid "2c3ab61a-3e90-497e-b151-6a9dadc6d510")
 			(effects
 				(font
 					(size 1 1)
@@ -42891,7 +42895,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "61695447-98d3-4233-8499-7c21de048975")
+			(uuid "b994e3d5-613b-426d-a4e2-e52aa7fa2ce4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42904,7 +42908,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0c1d45e0-3b31-4528-b3d8-ba91b62c5339")
+			(uuid "8404b38a-a553-499f-81f5-bd6d2e521800")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43705,13 +43709,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "95e428c0-661d-41d1-8b08-2ade9313de40")
-		(at 107.5 160.55)
+		(at 110.04 168.17)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW43"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "12705571-18d8-4044-a97a-bed794f108a7")
+			(uuid "cc934b04-066f-44e9-ab01-1c99b506b898")
 			(effects
 				(font
 					(size 1 1)
@@ -43722,7 +43726,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "dc019bdb-23ce-47e7-b155-27e60bf50aba")
+			(uuid "812a1fc3-32dd-4c8e-9f80-ce092e010b81")
 			(effects
 				(font
 					(size 1 1)
@@ -43735,7 +43739,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3b5074f4-50d1-43f1-975e-fbef73fd00f6")
+			(uuid "2b19ebf4-e2a9-4010-91af-9e27c19e3b18")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43748,7 +43752,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b3432900-8ca7-4a7b-ae64-f279a8ec8df0")
+			(uuid "8b2cdb4a-2d3e-49ba-9528-2d7cf665980f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44238,15 +44242,16 @@
 		)
 	)
 	(footprint "Library:SW_Cherry_MX_LED_2"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "97cf6aaf-4558-49ed-9477-79e4c8e0ce27")
-		(at 152.77 95.45)
+		(at 34.29 130.81)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW6"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "6ece6a00-558e-4704-9e70-510c127e3fba")
+			(uuid "c6d290f2-ace3-49df-ab1c-7a2b523757e7")
 			(effects
 				(font
 					(size 1 1)
@@ -44257,7 +44262,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "3a459b95-f669-45bd-92c5-5d1f690a585a")
+			(uuid "3cd88e6d-97f2-47f7-aa48-a6085144e5b2")
 			(effects
 				(font
 					(size 1 1)
@@ -44270,7 +44275,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8d17c00c-2942-400c-ae71-aa9cb5d5aa17")
+			(uuid "7a8dfa8e-4282-4b75-ab56-6a25f6a2184a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44283,7 +44288,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "09dfe9f1-5c66-4523-8a7e-cfe899e5ad05")
+			(uuid "2e03947f-e490-411e-a22c-fcbe62b86a6b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48126,13 +48131,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "a4a78f5a-4840-4447-80f3-14811df53f2c")
-		(at 92.41 144.275)
+		(at 94.95 151.895)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW32"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "a33877ff-bd10-47ee-9337-61a95f8c4dfb")
+			(uuid "17a4bd5b-3b91-47bb-a686-fe413b6b0efc")
 			(effects
 				(font
 					(size 1 1)
@@ -48143,7 +48148,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "16e8a224-47a0-40f6-b840-1910bc12bacb")
+			(uuid "bfd8734e-d5b6-48c3-812d-f36af7c50df7")
 			(effects
 				(font
 					(size 1 1)
@@ -48156,7 +48161,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "adbb6d49-e737-4ad8-8288-49084d87ce0d")
+			(uuid "c276cdc9-313c-4f1e-8180-f0cd1852b9e4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48169,7 +48174,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f06e6ef1-b91d-4850-8a90-9daced44680c")
+			(uuid "4417f478-a6ec-4a9a-aa58-5424bc196525")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53737,13 +53742,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "bbc8e325-ad96-4736-83e2-c7a39381b721")
-		(at 77.32 144.275)
+		(at 79.86 151.895)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW31"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "77aba0b7-0301-47b1-9fca-8c404e0c5237")
+			(uuid "1e2151d8-ec86-4db4-ac03-5651d50297e2")
 			(effects
 				(font
 					(size 1 1)
@@ -53754,7 +53759,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "922af888-e733-49bf-b41c-7f89f9bac72c")
+			(uuid "44e2f5b1-b9b2-415c-a73f-a954baca2d6c")
 			(effects
 				(font
 					(size 1 1)
@@ -53767,7 +53772,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6f18f6ea-8a9f-4c95-82dc-9aae977ba6d4")
+			(uuid "0446595b-18b3-454c-b4ed-145839a489aa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53780,7 +53785,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "06644bd2-0738-4596-b17a-f7bcc0ab9082")
+			(uuid "41eaeed1-1e7d-4474-9048-eb2ee939bd0b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59096,9 +59101,10 @@
 		)
 	)
 	(footprint "Library:SW_Cherry_MX_LED_2"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "d3c2c90a-85ad-4513-8e8d-49eccb79cd0d")
-		(at 122.59 95.45)
+		(at 34.29 90.17)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW4"
@@ -60056,13 +60062,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "d7c07a2b-08ef-46d9-8685-e983997ff9fc")
-		(at 92.41 128)
+		(at 94.95 135.62)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW22"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "279c757a-20c2-4af0-b5e0-0babf5e02e21")
+			(uuid "fd198aa2-a1e0-48b6-9b78-1171bf7eec8e")
 			(effects
 				(font
 					(size 1 1)
@@ -60073,7 +60079,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "2049c8e7-7e3b-4546-a904-43142495fdeb")
+			(uuid "5b7c8748-f8ea-493d-be0f-173d9cfa4f84")
 			(effects
 				(font
 					(size 1 1)
@@ -60086,7 +60092,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "be6a55d2-536a-494b-a348-41cd2fbea09f")
+			(uuid "3c356b1e-8cc8-453f-8246-58c69350c1bc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60099,7 +60105,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c2974319-dc45-4960-9eec-c4c70b6327d4")
+			(uuid "038b9d06-dfe9-4630-a0cc-82af2e789f42")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60900,13 +60906,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "db046abe-f88f-475a-b78d-7f0297bc2643")
-		(at 107.5 128)
+		(at 110.04 135.62)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW23"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "170dd585-fe89-4a7f-8dd9-f6ad3a708c92")
+			(uuid "934bf737-8620-4acc-86df-52ddb36f993c")
 			(effects
 				(font
 					(size 1 1)
@@ -60917,7 +60923,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "c4950f69-4602-422e-8649-c49745dcceac")
+			(uuid "99b92a2f-4b35-4df5-a79f-3f02fde04523")
 			(effects
 				(font
 					(size 1 1)
@@ -60930,7 +60936,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1167e0eb-1329-4b32-9f66-90325e29c489")
+			(uuid "2dda406d-fe0d-4d2c-9e23-065ae88cebc3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60943,7 +60949,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "58385ca6-2017-451a-9c76-8bed1c5f4795")
+			(uuid "d7f2abe6-aca3-4d60-b8be-ad0f641c732a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65238,13 +65244,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "ee25fde9-01ca-41f2-a7fe-7775903a1787")
-		(at 107.5 225.65)
+		(at 110.04 233.27)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW83"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "8f6088ac-8573-4b6b-95f4-9ad2cb6f1c9e")
+			(uuid "bc663cce-722a-425b-addd-ad7dd03d9813")
 			(effects
 				(font
 					(size 1 1)
@@ -65255,7 +65261,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "c9121349-80d4-4c9e-af82-d90c8e398120")
+			(uuid "047f8710-65e4-433e-ab21-4b20d8417c02")
 			(effects
 				(font
 					(size 1 1)
@@ -65268,7 +65274,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a0e74292-24b3-4e74-b79d-aac73ca1892e")
+			(uuid "7f0f15f3-e3c3-4239-a4fb-ff0966b28a62")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65281,7 +65287,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2d74e088-14f0-45e5-856b-0c8df2dc61a9")
+			(uuid "303d017e-a656-447e-b7cc-e18843910fc4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66984,13 +66990,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "f08bce00-8978-46aa-86b6-3c9493663eea")
-		(at 92.41 193.1)
+		(at 94.95 200.72)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW62"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "cd95eb6a-98be-43e1-b28e-ae73db32de33")
+			(uuid "87814517-94a9-418a-abdc-b258dbe9b524")
 			(effects
 				(font
 					(size 1 1)
@@ -67001,7 +67007,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "6c2ef02b-49db-4b5e-8b86-81d64a217fb9")
+			(uuid "82c1dc69-28a4-42c0-9215-026f712528e2")
 			(effects
 				(font
 					(size 1 1)
@@ -67014,7 +67020,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "de9a1673-8fc7-4734-850e-266a543f68c6")
+			(uuid "07d83ca9-978c-4ca6-9b2d-e9840a134809")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67027,7 +67033,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0ebd7992-ad05-4642-9469-46df26bd95fd")
+			(uuid "a67160a2-4d8b-495e-b48b-8cc455754af2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68052,15 +68058,16 @@
 		)
 	)
 	(footprint "Library:SW_Cherry_MX_LED_2"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "f1ac02bd-2226-4453-bdc6-5df0900e2ef1")
-		(at 77.32 111.725)
+		(at 54.61 29.21)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW11"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "19238f1f-2bbc-46eb-aafe-a324ccd9fcf3")
+			(uuid "a196ce9d-8633-48ef-a17f-3b9a81a9179c")
 			(effects
 				(font
 					(size 1 1)
@@ -68071,7 +68078,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "f102ee71-96b3-4895-bbec-ca430d74e16c")
+			(uuid "c23f5227-0ca8-45dc-8ab4-889da93bbbd5")
 			(effects
 				(font
 					(size 1 1)
@@ -68084,7 +68091,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "918e5b2e-268f-45b6-848f-486cfad83b59")
+			(uuid "17394b94-d03c-4084-b830-f3d6b56c615e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68097,7 +68104,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "431bbca4-13be-4903-b85b-e75244be9eb9")
+			(uuid "c408b883-70f2-4b9c-9c0c-321b63368954")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -71092,15 +71099,16 @@
 		)
 	)
 	(footprint "Library:SW_Cherry_MX_LED_2"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "f6376224-90a2-4acd-9e02-8ecc0670a158")
-		(at 77.32 95.45)
+		(at 34.29 29.21)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW1"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "cf6b69cb-6234-45ed-b5bd-8f0de7302e31")
+			(uuid "4a2ddfc5-7e15-40d3-a396-d254eba1e9d4")
 			(effects
 				(font
 					(size 1 1)
@@ -71111,7 +71119,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "cea65006-6768-47f9-a69c-ea96e9840233")
+			(uuid "0c0b164d-72fa-46d6-adca-b9f3829dc996")
 			(effects
 				(font
 					(size 1 1)
@@ -71124,7 +71132,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "32d42bde-45cf-4ff4-b1c1-f57cafe77668")
+			(uuid "7d62ef59-5283-430b-8060-a564349e9e83")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -71137,7 +71145,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "193a3ec1-4910-4b58-b01e-8916fd96ce08")
+			(uuid "e212b06c-b590-43d3-bcfb-9a40291053bf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -71911,13 +71919,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "f85c78a4-5e94-46b3-bea1-6e3d4031661f")
-		(at 77.32 241.925)
+		(at 79.86 249.545)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW91"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "a66456b3-33ed-4227-bb03-8ada07358aa8")
+			(uuid "abf05d87-895d-4b54-8a06-12888f9a0b79")
 			(effects
 				(font
 					(size 1 1)
@@ -71928,7 +71936,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "13323b17-fd44-4189-b8a4-5bb4a89e9050")
+			(uuid "945d08c4-426a-4325-9145-315a39bae441")
 			(effects
 				(font
 					(size 1 1)
@@ -71941,7 +71949,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6f7f052f-44fa-43a1-9037-5529285672bf")
+			(uuid "c2884c10-e7ad-4cbe-9472-18683b3f53f3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -71954,7 +71962,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a2c18721-6944-497f-b1fe-1259531d3f28")
+			(uuid "71e6116b-e09b-4961-9ff2-220c7072ff8a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74333,13 +74341,13 @@
 	(footprint "Library:SW_Cherry_MX_LED_2"
 		(layer "F.Cu")
 		(uuid "fd06663a-9614-47ae-930c-4c62aef940f5")
-		(at 77.32 209.375)
+		(at 79.86 216.995)
 		(descr "Cherry MX keyswitch, 1.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u plate")
 		(property "Reference" "SW71"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "b47e6e09-8e5a-4789-b997-0f1b0df3ec25")
+			(uuid "6018c2e8-4fee-46bf-89d8-43afc45f3d95")
 			(effects
 				(font
 					(size 1 1)
@@ -74350,7 +74358,7 @@
 		(property "Value" "~"
 			(at -2 17.5 0)
 			(layer "F.Fab")
-			(uuid "8332f40f-56ab-4ce3-b5eb-1484b187d4cf")
+			(uuid "2fb76762-2734-4791-bc3e-1120b934b449")
 			(effects
 				(font
 					(size 1 1)
@@ -74363,7 +74371,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0234234d-1f43-4cd5-bcf9-f1fe21e6a339")
+			(uuid "262b60e4-3fd2-4deb-b26b-f1f7790fa906")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74376,7 +74384,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e43caa3b-7f5a-4f4d-af7e-93e89d48d451")
+			(uuid "2d3c0051-854f-4d19-9736-1df090e9fa89")
 			(effects
 				(font
 					(size 1.27 1.27)
