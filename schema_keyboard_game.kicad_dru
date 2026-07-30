@@ -1,0 +1,4 @@
+(version 1)
+(rule "Override Clearance For Specific Pad"
+   (constraint clearance (min 0.15mm))
+   (condition "A.Parent == 'J1' && A.Pad_Num == 'A9'"))
