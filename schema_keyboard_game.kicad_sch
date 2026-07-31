@@ -3813,6 +3813,12 @@
 		(uuid "0687f706-1684-47fd-829b-42c36512241e")
 	)
 	(junction
+		(at 372.11 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "072b3720-c751-49ad-9a87-651cfde19cef")
+	)
+	(junction
 		(at 269.24 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3853,6 +3859,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "15df14f5-5373-43e7-93ff-572967a7e86c")
+	)
+	(junction
+		(at 382.27 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1df33ff7-b686-4f51-9e95-30e35935804a")
 	)
 	(junction
 		(at 181.61 124.46)
@@ -5034,6 +5046,16 @@
 	)
 	(wire
 		(pts
+			(xy 369.57 58.42) (xy 372.11 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ec541df-7a8e-4359-9a49-b498f47394df")
+	)
+	(wire
+		(pts
 			(xy 205.74 414.02) (xy 210.82 414.02)
 		)
 		(stroke
@@ -5861,6 +5883,16 @@
 			(type default)
 		)
 		(uuid "49b9f163-a6a0-45cf-a0cc-ce4dfea885bb")
+	)
+	(wire
+		(pts
+			(xy 372.11 58.42) (xy 389.89 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49ed5e45-860f-4669-9445-2d87807aaffd")
 	)
 	(wire
 		(pts
@@ -7484,6 +7516,16 @@
 	)
 	(wire
 		(pts
+			(xy 382.27 54.61) (xy 389.89 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e890996-9afd-4cb9-83a3-fe54651d42ec")
+	)
+	(wire
+		(pts
 			(xy 73.66 285.75) (xy 85.09 285.75)
 		)
 		(stroke
@@ -7541,6 +7583,16 @@
 			(type default)
 		)
 		(uuid "a0407d6a-ff8a-40bb-b428-65723582e53b")
+	)
+	(wire
+		(pts
+			(xy 372.11 45.72) (xy 372.11 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a06d67ab-a41a-45f2-b904-21bb51a0446a")
 	)
 	(wire
 		(pts
@@ -9174,6 +9226,16 @@
 	)
 	(wire
 		(pts
+			(xy 382.27 45.72) (xy 382.27 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f424d6c1-aa0c-43af-9bdb-f04af751a4bd")
+	)
+	(wire
+		(pts
 			(xy 176.53 172.72) (xy 181.61 172.72)
 		)
 		(stroke
@@ -9181,6 +9243,16 @@
 			(type default)
 		)
 		(uuid "f43b2845-9b13-4057-92e0-bba114221c19")
+	)
+	(wire
+		(pts
+			(xy 369.57 54.61) (xy 382.27 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f44bd36a-e73a-4d20-996a-33e13ee38e44")
 	)
 	(wire
 		(pts
@@ -10183,7 +10255,7 @@
 		(uuid "4f9c2d60-b00d-4eca-9e89-594296254ad3")
 	)
 	(label "sck"
-		(at 389.89 54.61 180)
+		(at 369.57 54.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10413,7 +10485,7 @@
 		(uuid "6d5c6118-b0e4-4e9d-8d84-957e694b78e9")
 	)
 	(label "sda"
-		(at 389.89 58.42 180)
+		(at 369.57 58.42 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13866,6 +13938,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 490.22 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0aeb9af2-a90e-44e5-9c48-1f52f4fffc7e")
+		(property "Reference" "#PWR0326"
+			(at 490.22 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 490.22 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 490.22 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 490.22 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 490.22 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f9d00808-e9f3-43b4-abc5-f87b80e4bb27")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "#PWR0326")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "prj:SW_PUSH_LED")
 		(at 269.24 240.03 0)
 		(unit 1)
@@ -14774,46 +14912,46 @@
 			)
 		)
 		(pin "8"
-			(uuid "100febf6-77a8-4a6c-99ec-9ab29d5d1853")
+			(uuid "100febf6-77a8-4a6c-99ec-9ab29d5d1854")
 		)
 		(pin "7"
-			(uuid "718d48d3-1ba1-4a37-9cda-2db8843f006f")
+			(uuid "718d48d3-1ba1-4a37-9cda-2db8843f0070")
 		)
 		(pin "13"
-			(uuid "5d186656-8a65-43e5-85c3-bbd817025646")
+			(uuid "5d186656-8a65-43e5-85c3-bbd817025647")
 		)
 		(pin "12"
-			(uuid "a59e5be8-8933-4428-b2e6-255109efe728")
+			(uuid "a59e5be8-8933-4428-b2e6-255109efe729")
 		)
 		(pin "11"
-			(uuid "f285ee35-629c-4da5-8a9f-18ab385a3616")
+			(uuid "f285ee35-629c-4da5-8a9f-18ab385a3617")
 		)
 		(pin "9"
-			(uuid "1bffd341-2d2e-4601-a1fb-4ab29fdb94e8")
+			(uuid "1bffd341-2d2e-4601-a1fb-4ab29fdb94e9")
 		)
 		(pin "1"
-			(uuid "870a1b74-d62b-44b0-8106-72b61c38660b")
+			(uuid "870a1b74-d62b-44b0-8106-72b61c38660c")
 		)
 		(pin "3"
-			(uuid "c6d2190d-21b1-4e2f-b4bd-3bfd162d3563")
+			(uuid "c6d2190d-21b1-4e2f-b4bd-3bfd162d3564")
 		)
 		(pin "5"
-			(uuid "887f3cba-f568-4be1-863f-307b7f631c92")
+			(uuid "887f3cba-f568-4be1-863f-307b7f631c93")
 		)
 		(pin "4"
-			(uuid "3a187ebe-bac2-4d7d-940d-23a1d3c83fad")
+			(uuid "3a187ebe-bac2-4d7d-940d-23a1d3c83fae")
 		)
 		(pin "6"
-			(uuid "c8d4dd22-cbbf-4b89-91d8-95ca6de23e60")
+			(uuid "c8d4dd22-cbbf-4b89-91d8-95ca6de23e61")
 		)
 		(pin "2"
-			(uuid "4abe331d-dbad-441a-86bd-f29e89f46021")
+			(uuid "4abe331d-dbad-441a-86bd-f29e89f46022")
 		)
 		(pin "14"
-			(uuid "f6075ab0-4629-4ba8-a21e-2293ac9cdb79")
+			(uuid "f6075ab0-4629-4ba8-a21e-2293ac9cdb7a")
 		)
 		(pin "10"
-			(uuid "3a2a9282-9d5c-416b-b547-b63d3eaa14cf")
+			(uuid "3a2a9282-9d5c-416b-b547-b63d3eaa14d0")
 		)
 		(instances
 			(project "schema_keyboard_game"
@@ -30347,46 +30485,46 @@
 			)
 		)
 		(pin "8"
-			(uuid "100febf6-77a8-4a6c-99ec-9ab29d5d1853")
+			(uuid "100febf6-77a8-4a6c-99ec-9ab29d5d1855")
 		)
 		(pin "7"
-			(uuid "718d48d3-1ba1-4a37-9cda-2db8843f006f")
+			(uuid "718d48d3-1ba1-4a37-9cda-2db8843f0071")
 		)
 		(pin "13"
-			(uuid "5d186656-8a65-43e5-85c3-bbd817025646")
+			(uuid "5d186656-8a65-43e5-85c3-bbd817025648")
 		)
 		(pin "12"
-			(uuid "a59e5be8-8933-4428-b2e6-255109efe728")
+			(uuid "a59e5be8-8933-4428-b2e6-255109efe72a")
 		)
 		(pin "11"
-			(uuid "f285ee35-629c-4da5-8a9f-18ab385a3616")
+			(uuid "f285ee35-629c-4da5-8a9f-18ab385a3618")
 		)
 		(pin "9"
-			(uuid "1bffd341-2d2e-4601-a1fb-4ab29fdb94e8")
+			(uuid "1bffd341-2d2e-4601-a1fb-4ab29fdb94ea")
 		)
 		(pin "1"
-			(uuid "870a1b74-d62b-44b0-8106-72b61c38660b")
+			(uuid "870a1b74-d62b-44b0-8106-72b61c38660d")
 		)
 		(pin "3"
-			(uuid "c6d2190d-21b1-4e2f-b4bd-3bfd162d3563")
+			(uuid "c6d2190d-21b1-4e2f-b4bd-3bfd162d3565")
 		)
 		(pin "5"
-			(uuid "887f3cba-f568-4be1-863f-307b7f631c92")
+			(uuid "887f3cba-f568-4be1-863f-307b7f631c94")
 		)
 		(pin "4"
-			(uuid "3a187ebe-bac2-4d7d-940d-23a1d3c83fad")
+			(uuid "3a187ebe-bac2-4d7d-940d-23a1d3c83faf")
 		)
 		(pin "6"
-			(uuid "c8d4dd22-cbbf-4b89-91d8-95ca6de23e60")
+			(uuid "c8d4dd22-cbbf-4b89-91d8-95ca6de23e62")
 		)
 		(pin "2"
-			(uuid "4abe331d-dbad-441a-86bd-f29e89f46021")
+			(uuid "4abe331d-dbad-441a-86bd-f29e89f46023")
 		)
 		(pin "14"
-			(uuid "f6075ab0-4629-4ba8-a21e-2293ac9cdb79")
+			(uuid "f6075ab0-4629-4ba8-a21e-2293ac9cdb7b")
 		)
 		(pin "10"
-			(uuid "3a2a9282-9d5c-416b-b547-b63d3eaa14cf")
+			(uuid "3a2a9282-9d5c-416b-b547-b63d3eaa14d1")
 		)
 		(instances
 			(project "schema_keyboard_game"
@@ -34217,6 +34355,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 382.27 41.91 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8f208bb8-0dcc-4029-b41c-2bdfe6cc3e4d")
+		(property "Reference" "R18"
+			(at 384.81 40.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "4.7 K"
+			(at 384.81 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 384.048 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 382.27 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 382.27 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4c446f63-37d3-4a19-b0aa-6c3fd58e39f8")
+		)
+		(pin "2"
+			(uuid "e2de43ef-a340-470f-9c08-b5b68300c376")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 223.52 462.28 0)
 		(unit 1)
@@ -36041,6 +36249,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 372.11 41.91 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9af8be2e-77ec-4435-9bdd-a95baecca107")
+		(property "Reference" "R17"
+			(at 374.65 40.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "4.7 K"
+			(at 374.65 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 373.888 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 372.11 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 372.11 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "60d7ad72-e2bc-4977-9a4f-a2ffa54d93d7")
+		)
+		(pin "2"
+			(uuid "ab968992-c93c-448a-9c1f-e3beedfb9ce8")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 106.68 172.72 0)
 		(unit 1)
@@ -36466,6 +36744,72 @@
 			(project "schema_keyboard_game"
 				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
 					(reference "SW88")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 382.27 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9d3361e2-09fe-4b51-8cbb-12914d75931e")
+		(property "Reference" "#PWR0327"
+			(at 382.27 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 382.27 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 382.27 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 382.27 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 382.27 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "11a202af-48ed-46e9-8f9d-688b253e1752")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "#PWR0327")
 					(unit 1)
 				)
 			)
@@ -39876,6 +40220,142 @@
 			(project "schema_keyboard_game"
 				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
 					(reference "#PWR0108")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 490.22 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc485acc-ac23-4dcc-9557-1515bec8a18c")
+		(property "Reference" "C105"
+			(at 494.03 96.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100p"
+			(at 494.03 99.0599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 491.1852 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 490.22 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 490.22 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8a976e55-ecf6-46cb-9a07-5d6a4558ddc1")
+		)
+		(pin "1"
+			(uuid "073706a7-f84f-4851-8306-eab709aefdc9")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "C105")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 372.11 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd10386c-a26d-499c-9cab-feff96c98af0")
+		(property "Reference" "#PWR0328"
+			(at 372.11 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 372.11 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 372.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 372.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 372.11 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c1c4deca-6b4a-4114-ba6b-cb570743d6e2")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "#PWR0328")
 					(unit 1)
 				)
 			)
@@ -46999,46 +47479,46 @@
 			)
 		)
 		(pin "8"
-			(uuid "100febf6-77a8-4a6c-99ec-9ab29d5d1853")
+			(uuid "100febf6-77a8-4a6c-99ec-9ab29d5d1856")
 		)
 		(pin "7"
-			(uuid "718d48d3-1ba1-4a37-9cda-2db8843f006f")
+			(uuid "718d48d3-1ba1-4a37-9cda-2db8843f0072")
 		)
 		(pin "13"
-			(uuid "5d186656-8a65-43e5-85c3-bbd817025646")
+			(uuid "5d186656-8a65-43e5-85c3-bbd817025649")
 		)
 		(pin "12"
-			(uuid "a59e5be8-8933-4428-b2e6-255109efe728")
+			(uuid "a59e5be8-8933-4428-b2e6-255109efe72b")
 		)
 		(pin "11"
-			(uuid "f285ee35-629c-4da5-8a9f-18ab385a3616")
+			(uuid "f285ee35-629c-4da5-8a9f-18ab385a3619")
 		)
 		(pin "9"
-			(uuid "1bffd341-2d2e-4601-a1fb-4ab29fdb94e8")
+			(uuid "1bffd341-2d2e-4601-a1fb-4ab29fdb94eb")
 		)
 		(pin "1"
-			(uuid "870a1b74-d62b-44b0-8106-72b61c38660b")
+			(uuid "870a1b74-d62b-44b0-8106-72b61c38660e")
 		)
 		(pin "3"
-			(uuid "c6d2190d-21b1-4e2f-b4bd-3bfd162d3563")
+			(uuid "c6d2190d-21b1-4e2f-b4bd-3bfd162d3566")
 		)
 		(pin "5"
-			(uuid "887f3cba-f568-4be1-863f-307b7f631c92")
+			(uuid "887f3cba-f568-4be1-863f-307b7f631c95")
 		)
 		(pin "4"
-			(uuid "3a187ebe-bac2-4d7d-940d-23a1d3c83fad")
+			(uuid "3a187ebe-bac2-4d7d-940d-23a1d3c83fb0")
 		)
 		(pin "6"
-			(uuid "c8d4dd22-cbbf-4b89-91d8-95ca6de23e60")
+			(uuid "c8d4dd22-cbbf-4b89-91d8-95ca6de23e63")
 		)
 		(pin "2"
-			(uuid "4abe331d-dbad-441a-86bd-f29e89f46021")
+			(uuid "4abe331d-dbad-441a-86bd-f29e89f46024")
 		)
 		(pin "14"
-			(uuid "f6075ab0-4629-4ba8-a21e-2293ac9cdb79")
+			(uuid "f6075ab0-4629-4ba8-a21e-2293ac9cdb7c")
 		)
 		(pin "10"
-			(uuid "3a2a9282-9d5c-416b-b547-b63d3eaa14cf")
+			(uuid "3a2a9282-9d5c-416b-b547-b63d3eaa14d2")
 		)
 		(instances
 			(project "schema_keyboard_game"
@@ -51137,46 +51617,46 @@
 			)
 		)
 		(pin "8"
-			(uuid "100febf6-77a8-4a6c-99ec-9ab29d5d1853")
+			(uuid "100febf6-77a8-4a6c-99ec-9ab29d5d1857")
 		)
 		(pin "7"
-			(uuid "718d48d3-1ba1-4a37-9cda-2db8843f006f")
+			(uuid "718d48d3-1ba1-4a37-9cda-2db8843f0073")
 		)
 		(pin "13"
-			(uuid "5d186656-8a65-43e5-85c3-bbd817025646")
+			(uuid "5d186656-8a65-43e5-85c3-bbd81702564a")
 		)
 		(pin "12"
-			(uuid "a59e5be8-8933-4428-b2e6-255109efe728")
+			(uuid "a59e5be8-8933-4428-b2e6-255109efe72c")
 		)
 		(pin "11"
-			(uuid "f285ee35-629c-4da5-8a9f-18ab385a3616")
+			(uuid "f285ee35-629c-4da5-8a9f-18ab385a361a")
 		)
 		(pin "9"
-			(uuid "1bffd341-2d2e-4601-a1fb-4ab29fdb94e8")
+			(uuid "1bffd341-2d2e-4601-a1fb-4ab29fdb94ec")
 		)
 		(pin "1"
-			(uuid "870a1b74-d62b-44b0-8106-72b61c38660b")
+			(uuid "870a1b74-d62b-44b0-8106-72b61c38660f")
 		)
 		(pin "3"
-			(uuid "c6d2190d-21b1-4e2f-b4bd-3bfd162d3563")
+			(uuid "c6d2190d-21b1-4e2f-b4bd-3bfd162d3567")
 		)
 		(pin "5"
-			(uuid "887f3cba-f568-4be1-863f-307b7f631c92")
+			(uuid "887f3cba-f568-4be1-863f-307b7f631c96")
 		)
 		(pin "4"
-			(uuid "3a187ebe-bac2-4d7d-940d-23a1d3c83fad")
+			(uuid "3a187ebe-bac2-4d7d-940d-23a1d3c83fb1")
 		)
 		(pin "6"
-			(uuid "c8d4dd22-cbbf-4b89-91d8-95ca6de23e60")
+			(uuid "c8d4dd22-cbbf-4b89-91d8-95ca6de23e64")
 		)
 		(pin "2"
-			(uuid "4abe331d-dbad-441a-86bd-f29e89f46021")
+			(uuid "4abe331d-dbad-441a-86bd-f29e89f46025")
 		)
 		(pin "14"
-			(uuid "f6075ab0-4629-4ba8-a21e-2293ac9cdb79")
+			(uuid "f6075ab0-4629-4ba8-a21e-2293ac9cdb7d")
 		)
 		(pin "10"
-			(uuid "3a2a9282-9d5c-416b-b547-b63d3eaa14cf")
+			(uuid "3a2a9282-9d5c-416b-b547-b63d3eaa14d3")
 		)
 		(instances
 			(project "schema_keyboard_game"
