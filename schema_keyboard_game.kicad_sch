@@ -4475,10 +4475,6 @@
 		(uuid "8a167702-7c49-4e1b-bfab-f0c9e353d154")
 	)
 	(no_connect
-		(at 410.21 132.08)
-		(uuid "b1e088c1-1625-40e7-a9ae-2d684345e5b4")
-	)
-	(no_connect
 		(at 458.47 260.35)
 		(uuid "b85e941b-29e3-4670-bf6b-ad092026ec4b")
 	)
@@ -4493,10 +4489,6 @@
 	(no_connect
 		(at 458.47 250.19)
 		(uuid "dcb60276-f9c6-4d82-8673-9b6b53b2b39b")
-	)
-	(no_connect
-		(at 410.21 134.62)
-		(uuid "e73912a4-89e6-4487-bdf6-9a6e89121c72")
 	)
 	(no_connect
 		(at 458.47 255.27)
@@ -5383,6 +5375,16 @@
 			(type default)
 		)
 		(uuid "2ca503aa-b6c7-4975-8657-9f3937727854")
+	)
+	(wire
+		(pts
+			(xy 414.02 139.7) (xy 414.02 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d25dbe3-2c9f-45e9-a68e-53289e39f71e")
 	)
 	(wire
 		(pts
@@ -6353,6 +6355,16 @@
 			(type default)
 		)
 		(uuid "687da497-c055-446e-b07d-0307d8227932")
+	)
+	(wire
+		(pts
+			(xy 410.21 132.08) (xy 421.64 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6915e7cb-c80f-4651-a73d-01b1c9f5c16c")
 	)
 	(wire
 		(pts
@@ -7576,6 +7588,16 @@
 	)
 	(wire
 		(pts
+			(xy 422.91 135.89) (xy 422.91 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fd25bef-aa43-4699-b525-5a06e20c4e7e")
+	)
+	(wire
+		(pts
 			(xy 30.48 269.24) (xy 35.56 269.24)
 		)
 		(stroke
@@ -8096,6 +8118,16 @@
 	)
 	(wire
 		(pts
+			(xy 410.21 134.62) (xy 414.02 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b967dceb-3598-4e43-9b0b-a3b18a4090d3")
+	)
+	(wire
+		(pts
 			(xy 210.82 220.98) (xy 210.82 229.87)
 		)
 		(stroke
@@ -8316,6 +8348,16 @@
 	)
 	(wire
 		(pts
+			(xy 421.64 132.08) (xy 421.64 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c83a66f2-dcf4-47aa-9163-d5d2b3ef4132")
+	)
+	(wire
+		(pts
 			(xy 147.32 172.72) (xy 152.4 172.72)
 		)
 		(stroke
@@ -8343,6 +8385,16 @@
 			(type default)
 		)
 		(uuid "c8a2b812-32aa-48aa-a9e2-ddb56316eed5")
+	)
+	(wire
+		(pts
+			(xy 421.64 135.89) (xy 422.91 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c95a7352-2f50-4663-93a2-5c5117401543")
 	)
 	(wire
 		(pts
@@ -12094,7 +12146,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 128.2699 410.21 90)
 			(effects
 				(font
@@ -13193,7 +13245,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 40.6399 265.43 90)
 			(effects
 				(font
@@ -13605,7 +13657,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 245.1099 72.39 90)
 			(effects
 				(font
@@ -13804,7 +13856,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 186.6899 313.69 90)
 			(effects
 				(font
@@ -14788,6 +14840,72 @@
 			(project "schema_keyboard_game"
 				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
 					(reference "#PWR0308")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 422.91 147.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1477f6d3-331d-44d7-bcc0-0cdb1bf0f82f")
+		(property "Reference" "#PWR0330"
+			(at 422.91 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 422.91 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 422.91 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 422.91 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 422.91 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "82d9487f-3aef-4453-9aee-a370c34c9c99")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "#PWR0330")
 					(unit 1)
 				)
 			)
@@ -15924,7 +16042,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 303.5299 410.21 90)
 			(effects
 				(font
@@ -16701,7 +16819,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 215.8999 410.21 90)
 			(effects
 				(font
@@ -17081,7 +17199,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 99.0599 458.47 90)
 			(effects
 				(font
@@ -17282,7 +17400,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 186.6899 120.65 90)
 			(effects
 				(font
@@ -17350,7 +17468,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 386.588 199.136 0)
 			(effects
 				(font
@@ -18335,7 +18453,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 99.0599 361.95 90)
 			(effects
 				(font
@@ -18404,7 +18522,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 245.1099 265.43 90)
 			(effects
 				(font
@@ -18538,7 +18656,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 128.2699 217.17 90)
 			(effects
 				(font
@@ -18901,7 +19019,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 274.3199 217.17 90)
 			(effects
 				(font
@@ -19501,7 +19619,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 245.1099 217.17 90)
 			(effects
 				(font
@@ -19570,7 +19688,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 157.4799 458.47 90)
 			(effects
 				(font
@@ -20103,7 +20221,7 @@
 				)
 			)
 		)
-		(property "Value" "470 OM"
+		(property "Value" "470"
 			(at 370.84 200.66 90)
 			(effects
 				(font
@@ -20594,7 +20712,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 495.808 234.696 0)
 			(effects
 				(font
@@ -20810,7 +20928,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 69.8499 168.91 90)
 			(effects
 				(font
@@ -20944,7 +21062,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 303.5299 313.69 90)
 			(effects
 				(font
@@ -21160,7 +21278,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 69.8499 458.47 90)
 			(effects
 				(font
@@ -21358,7 +21476,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 497.078 187.706 0)
 			(effects
 				(font
@@ -22618,7 +22736,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 303.5299 120.65 90)
 			(effects
 				(font
@@ -23128,7 +23246,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 99.0599 410.21 90)
 			(effects
 				(font
@@ -23197,7 +23315,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 128.2699 72.39 90)
 			(effects
 				(font
@@ -23266,7 +23384,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 245.1099 361.95 90)
 			(effects
 				(font
@@ -23747,7 +23865,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 274.3199 265.43 90)
 			(effects
 				(font
@@ -24028,7 +24146,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 215.8999 168.91 90)
 			(effects
 				(font
@@ -24456,7 +24574,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 40.6399 458.47 90)
 			(effects
 				(font
@@ -24525,7 +24643,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 186.6899 24.13 90)
 			(effects
 				(font
@@ -24594,7 +24712,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 69.8499 313.69 90)
 			(effects
 				(font
@@ -24728,7 +24846,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 157.4799 168.91 90)
 			(effects
 				(font
@@ -25463,7 +25581,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 495.808 238.506 0)
 			(effects
 				(font
@@ -26138,7 +26256,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 245.1099 24.13 90)
 			(effects
 				(font
@@ -26289,7 +26407,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 274.3199 313.69 90)
 			(effects
 				(font
@@ -26619,7 +26737,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "5.1k"
 			(at 492.76 308.6099 0)
 			(effects
 				(font
@@ -26688,7 +26806,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 186.6899 410.21 90)
 			(effects
 				(font
@@ -27393,7 +27511,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 157.4799 72.39 90)
 			(effects
 				(font
@@ -27592,7 +27710,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 274.3199 458.47 90)
 			(effects
 				(font
@@ -27726,7 +27844,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 99.0599 313.69 90)
 			(effects
 				(font
@@ -27859,7 +27977,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 387.096 189.992 0)
 			(effects
 				(font
@@ -28417,7 +28535,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 377.19 227.584 0)
 			(effects
 				(font
@@ -28650,7 +28768,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 186.6899 217.17 90)
 			(effects
 				(font
@@ -29078,7 +29196,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 40.6399 120.65 90)
 			(effects
 				(font
@@ -29277,7 +29395,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 245.1099 313.69 90)
 			(effects
 				(font
@@ -29476,7 +29594,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 245.1099 120.65 90)
 			(effects
 				(font
@@ -29611,7 +29729,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 495.808 242.316 0)
 			(effects
 				(font
@@ -29908,7 +30026,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 377.19 221.996 0)
 			(effects
 				(font
@@ -30553,7 +30671,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 157.4799 361.95 90)
 			(effects
 				(font
@@ -30622,7 +30740,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 215.8999 24.13 90)
 			(effects
 				(font
@@ -30756,7 +30874,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 303.5299 217.17 90)
 			(effects
 				(font
@@ -30890,7 +31008,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 128.2699 24.13 90)
 			(effects
 				(font
@@ -31219,7 +31337,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 186.6899 361.95 90)
 			(effects
 				(font
@@ -31288,7 +31406,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 128.2699 168.91 90)
 			(effects
 				(font
@@ -31422,7 +31540,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 128.2699 313.69 90)
 			(effects
 				(font
@@ -32192,7 +32310,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 99.0599 72.39 90)
 			(effects
 				(font
@@ -32457,7 +32575,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 215.8999 361.95 90)
 			(effects
 				(font
@@ -32821,7 +32939,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 303.5299 72.39 90)
 			(effects
 				(font
@@ -32955,7 +33073,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 99.0599 120.65 90)
 			(effects
 				(font
@@ -33366,7 +33484,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 40.6399 313.69 90)
 			(effects
 				(font
@@ -34156,7 +34274,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 40.6399 410.21 90)
 			(effects
 				(font
@@ -34671,7 +34789,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 157.4799 313.69 90)
 			(effects
 				(font
@@ -34805,7 +34923,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 128.2699 458.47 90)
 			(effects
 				(font
@@ -34874,7 +34992,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 215.8999 265.43 90)
 			(effects
 				(font
@@ -35678,7 +35796,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 274.3199 24.13 90)
 			(effects
 				(font
@@ -35747,7 +35865,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 157.4799 120.65 90)
 			(effects
 				(font
@@ -35899,7 +36017,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "5.1k"
 			(at 469.9 308.6099 0)
 			(effects
 				(font
@@ -35968,7 +36086,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 128.2699 265.43 90)
 			(effects
 				(font
@@ -36401,7 +36519,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 69.8499 72.39 90)
 			(effects
 				(font
@@ -36534,7 +36652,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 495.808 246.126 0)
 			(effects
 				(font
@@ -37322,7 +37440,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 40.6399 24.13 90)
 			(effects
 				(font
@@ -37391,7 +37509,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 69.8499 120.65 90)
 			(effects
 				(font
@@ -37593,7 +37711,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 99.0599 217.17 90)
 			(effects
 				(font
@@ -37727,7 +37845,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 40.6399 72.39 90)
 			(effects
 				(font
@@ -38237,7 +38355,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 215.8999 313.69 90)
 			(effects
 				(font
@@ -38356,6 +38474,76 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 414.02 143.51 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a98db69e-16f6-42dd-a88d-7c43d49a5736")
+		(property "Reference" "R19"
+			(at 416.56 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "5.1k"
+			(at 416.56 144.7799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 415.798 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 414.02 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 414.02 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f1e910f1-fcdb-4d7e-8661-a18d1c29cb12")
+		)
+		(pin "2"
+			(uuid "ccdb0ac5-d329-4455-bf88-ad3c6fbac312")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 492.76 200.66 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -38439,7 +38627,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 69.8499 410.21 90)
 			(effects
 				(font
@@ -38705,7 +38893,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 274.3199 361.95 90)
 			(effects
 				(font
@@ -38774,7 +38962,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 186.6899 265.43 90)
 			(effects
 				(font
@@ -38843,7 +39031,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 274.3199 168.91 90)
 			(effects
 				(font
@@ -39059,7 +39247,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 215.8999 72.39 90)
 			(effects
 				(font
@@ -39962,7 +40150,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 99.0599 265.43 90)
 			(effects
 				(font
@@ -40444,7 +40632,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 245.1099 168.91 90)
 			(effects
 				(font
@@ -40513,7 +40701,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 186.6899 458.47 90)
 			(effects
 				(font
@@ -40581,7 +40769,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 382.778 215.646 0)
 			(effects
 				(font
@@ -40667,7 +40855,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 40.6399 217.17 90)
 			(effects
 				(font
@@ -41293,7 +41481,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 471.17 120.6499 0)
 			(effects
 				(font
@@ -41362,7 +41550,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 69.8499 265.43 90)
 			(effects
 				(font
@@ -41408,6 +41596,76 @@
 			(project "schema_keyboard_game"
 				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
 					(reference "C16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 422.91 143.51 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c2ad9711-5352-4e0d-984b-dbe55ce85fbf")
+		(property "Reference" "R20"
+			(at 425.45 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "5.1k"
+			(at 425.45 144.7799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 424.688 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 422.91 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 422.91 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "83f9b2fd-5736-4304-b67f-52b2eb6b8d8a")
+		)
+		(pin "2"
+			(uuid "a9025ce5-f6ce-45aa-9830-d118edabda96")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -41937,7 +42195,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 215.8999 458.47 90)
 			(effects
 				(font
@@ -42089,7 +42347,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 471.17 130.8099 0)
 			(effects
 				(font
@@ -43002,7 +43260,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 215.8999 120.65 90)
 			(effects
 				(font
@@ -43071,7 +43329,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 128.2699 361.95 90)
 			(effects
 				(font
@@ -43791,7 +44049,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 157.4799 410.21 90)
 			(effects
 				(font
@@ -44072,7 +44330,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 303.5299 458.47 90)
 			(effects
 				(font
@@ -44206,7 +44464,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 186.6899 168.91 90)
 			(effects
 				(font
@@ -44665,7 +44923,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 99.0599 168.91 90)
 			(effects
 				(font
@@ -44711,6 +44969,72 @@
 			(project "schema_keyboard_game"
 				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
 					(reference "C24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 414.02 147.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d5c0e3d3-5385-4e87-8e48-6cc3c8e44ff8")
+		(property "Reference" "#PWR0329"
+			(at 414.02 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 414.02 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 414.02 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 414.02 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 414.02 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "28f53f7a-09c1-462c-b8fe-d07d351d9977")
+		)
+		(instances
+			(project "schema_keyboard_game"
+				(path "/a48886e6-db89-45aa-9ff6-6672930f6948"
+					(reference "#PWR0329")
 					(unit 1)
 				)
 			)
@@ -44816,7 +45140,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 99.0599 24.13 90)
 			(effects
 				(font
@@ -45148,7 +45472,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 40.6399 361.95 90)
 			(effects
 				(font
@@ -45772,8 +46096,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 303.5299 24.13 90)
+		(property "Value" "100n"
+			(at 306.832 23.876 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46037,7 +46361,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100 nF"
+		(property "Value" "100n"
 			(at 427.99 124.4599 0)
 			(effects
 				(font
@@ -46302,7 +46626,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "5.1k"
 			(at 445.77 308.6099 0)
 			(effects
 				(font
@@ -46566,7 +46890,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 274.3199 410.21 90)
 			(effects
 				(font
@@ -46898,7 +47222,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 157.4799 24.13 90)
 			(effects
 				(font
@@ -47309,7 +47633,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 128.2699 120.65 90)
 			(effects
 				(font
@@ -47612,7 +47936,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 40.6399 168.91 90)
 			(effects
 				(font
@@ -48040,7 +48364,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 303.5299 361.95 90)
 			(effects
 				(font
@@ -48386,7 +48710,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 69.8499 361.95 90)
 			(effects
 				(font
@@ -48537,7 +48861,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 69.8499 24.13 90)
 			(effects
 				(font
@@ -48900,7 +49224,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 274.3199 120.65 90)
 			(effects
 				(font
@@ -48969,7 +49293,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 157.4799 265.43 90)
 			(effects
 				(font
@@ -49233,7 +49557,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 303.5299 168.91 90)
 			(effects
 				(font
@@ -49367,7 +49691,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 245.1099 458.47 90)
 			(effects
 				(font
@@ -49501,7 +49825,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 157.4799 217.17 90)
 			(effects
 				(font
@@ -50518,7 +50842,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 69.8499 217.17 90)
 			(effects
 				(font
@@ -50717,7 +51041,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 215.8999 217.17 90)
 			(effects
 				(font
@@ -50786,7 +51110,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 245.1099 410.21 90)
 			(effects
 				(font
@@ -50855,7 +51179,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 274.3199 72.39 90)
 			(effects
 				(font
@@ -51071,7 +51395,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 186.6899 72.39 90)
 			(effects
 				(font
@@ -51448,7 +51772,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 303.5299 265.43 90)
 			(effects
 				(font
