@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Library") (type "KiCad") (uri "/var/home/deck/00000/repo/schema_keyboard_game/Library.pretty") (options "") (descr ""))
+	(lib (name "sw_led") (type "KiCad") (uri "/run/media/deck/00000/repo/schema_keyboard_game/sw_led.pretty") (options "") (descr ""))
+)

@@ -304,7 +304,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 0
+      "sort_order": 1
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -380,14 +380,26 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Описание",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
-      "sort_field": "Обозначение"
+      "sort_field": "Reference"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -430,8 +442,12 @@
         "uuid": "684f36b5-8ccc-4bbc-873e-3d1c5cfac569"
       }
     ],
-    "used_designators": "",
-    "variants": []
+    "used_designators": "#PWR1-344,C1-113,D1,J1,LCD1,LED1,LS1,R1-10,R17-20,SW1-144,U1-5,Y1",
+    "variants": [
+      {
+        "name": "v1"
+      }
+    ]
   },
   "sheets": [
     [
