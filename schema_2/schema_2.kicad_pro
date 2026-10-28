@@ -442,7 +442,7 @@
         "uuid": "684f36b5-8ccc-4bbc-873e-3d1c5cfac569"
       }
     ],
-    "used_designators": "#PWR1-359,C1-115,D1-101,J1-3,LCD1,LED1,LS1,R1-25,SW1-144,U1-6,Y1",
+    "used_designators": "#PWR1-459,C1-115,D1-101,J1-3,LCD1,LED1,LS1,R1-25,SW1-144,U1-6,Y1",
     "variants": [
       {
         "name": "v1"
