@@ -1188,6 +1188,17 @@
 			(uuid "9960153a-aec2-439a-bb57-878bf7cfc4fa")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -2085,6 +2096,17 @@
 			(uuid "5ca32243-72cb-48ef-b96a-d394f49b307c")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -3292,6 +3314,17 @@
 			(uuid "d2d921ee-64d3-422b-86fc-bee89e3c8ed1")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -4809,6 +4842,17 @@
 			(uuid "663d1d88-16e6-4558-a760-94cfc9757275")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -5706,6 +5750,17 @@
 			(uuid "cf7bba81-9203-4a2e-8717-e3f967284f5a")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -6603,6 +6658,17 @@
 			(uuid "b4e8b893-e439-4f1b-a6e2-955c2252b28c")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -8642,6 +8708,17 @@
 			(uuid "061cad19-0c8d-42db-ae27-f8cfa3933863")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -10001,6 +10078,17 @@
 			(uuid "f93f471b-22b8-4e63-8c69-79192a85dbdc")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -10898,6 +10986,17 @@
 			(uuid "0aca95c8-b04b-4577-a593-e4563e02c126")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -11953,6 +12052,17 @@
 			(uuid "4161b292-9e41-44e9-b227-49f448618132")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -13306,6 +13416,17 @@
 			(uuid "b9368694-3c99-4499-9ad9-89b4bdc1774f")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -15425,6 +15546,17 @@
 			(uuid "2666b01a-f6d0-496d-9617-5cc8ff5337f6")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -16936,6 +17068,17 @@
 			(uuid "568ebf2a-8b1b-425a-8291-a6e26cd5ba7f")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -17833,6 +17976,17 @@
 			(uuid "fab3bee6-8916-499a-93c2-cf3365391cfc")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -18730,6 +18884,17 @@
 			(uuid "b1bc94d1-fb90-4d0b-a5f7-56de7681ede6")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -19627,6 +19792,17 @@
 			(uuid "42c891e3-f1aa-4ece-b721-ac63175b9dce")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-882D"
 		(layer "F.Cu")
@@ -21578,6 +21754,17 @@
 			(uuid "99de17b8-c721-4f62-95a0-f122c56e1231")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -23405,6 +23592,17 @@
 			(uuid "fe8070f9-adab-42dd-a07a-21d64085532a")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -24454,6 +24652,17 @@
 			(uuid "d0e14373-4956-412f-8961-b6aa0315d04f")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -25199,6 +25408,17 @@
 			(uuid "115892a3-4354-42fb-ac39-fc5897070d8a")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -28581,6 +28801,17 @@
 			(uuid "9daf8fb7-4c1d-4b83-8037-0a6dfa113fe2")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -29630,6 +29861,17 @@
 			(uuid "a8dc0502-cb11-4f82-be1a-3de6d24e361e")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -31033,6 +31275,17 @@
 			(uuid "54a16288-ed66-426e-ad56-db5d70a3d773")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -32398,6 +32651,17 @@
 			(uuid "ef1b13fe-ec57-47f8-9cf1-05e1e08ba74a")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -33143,6 +33407,17 @@
 			(uuid "b25d102f-1615-4823-9d15-6421bb337845")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -35426,6 +35701,17 @@
 			(uuid "98e26bc5-e306-444a-b420-54a5518de103")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -39031,6 +39317,17 @@
 			(uuid "50a0c69a-6e45-47b8-8dc1-4012b95e59e1")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -39928,6 +40225,17 @@
 			(uuid "4a351022-fa84-4851-80c3-ad819e3df1d6")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -40825,6 +41133,17 @@
 			(uuid "f6331dde-67da-4fb3-bc06-b77bae55aa62")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -42336,6 +42655,17 @@
 			(uuid "39b51211-a788-4609-b08e-17a6dd9ab417")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -43233,6 +43563,17 @@
 			(uuid "04238720-9df3-46a6-9d8a-9d89d8de8430")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -44282,6 +44623,17 @@
 			(uuid "45337e84-e015-421c-b27a-b0c2d02bfa40")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -45027,6 +45379,17 @@
 			(uuid "bcfbc04c-0926-4d89-b776-6ef2ee94e6fe")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -46082,6 +46445,17 @@
 			(uuid "44b6f9e7-5f48-4d29-bbb9-c1f30e5e14c5")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -46827,6 +47201,17 @@
 			(uuid "6ba77821-2677-493f-82c9-d6217b99a26a")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "ST7789_1.3_240x240_LCD_Module:ST7789_1.3_240x240_LCD_Module"
 		(layer "F.Cu")
@@ -48343,6 +48728,17 @@
 			(uuid "2892733e-bf91-45cd-85e9-a863d2f7655f")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -49708,6 +50104,17 @@
 			(uuid "c57f1b4c-a012-4e1c-9da8-5df564be9c76")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -50453,6 +50860,17 @@
 			(uuid "6d83ed4f-1c1c-451f-a610-802a818ec0c8")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -51607,6 +52025,17 @@
 			(uuid "2830e6cc-6206-46ea-b806-7bf29b131cea")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -52656,6 +53085,17 @@
 			(uuid "83f0825a-df04-4875-af18-4ecf6fbd6309")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -53401,6 +53841,17 @@
 			(uuid "ef9701b9-6257-404d-8964-09edd81f7bf7")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -55824,6 +56275,17 @@
 			(uuid "cf47cec7-aef5-46ba-b78c-e46518351b9b")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -57335,6 +57797,17 @@
 			(uuid "6c768a99-5a69-49b3-8566-1948f752cdc4")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -58846,6 +59319,17 @@
 			(uuid "2e56bdc4-8d33-431b-83db-bec2ab575c83")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -60047,6 +60531,17 @@
 			(uuid "a04056c8-682a-48cb-8eab-6f23f7d707bd")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Button_Switch_THT:SW_PUSH_6mm"
 		(layer "F.Cu")
@@ -62678,6 +63173,17 @@
 			(uuid "6f2731ab-129b-4d0c-bd49-e8149a63ce6f")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -64353,6 +64859,17 @@
 			(uuid "cefcbcd6-ff36-4fe2-9974-39d646b47b72")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -65250,6 +65767,17 @@
 			(uuid "0bffc53f-bfcb-47a0-bc19-a2dc71b3ad63")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -65995,6 +66523,17 @@
 			(uuid "af1e38d5-36ee-409c-869e-48e6a7d92488")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -67354,6 +67893,17 @@
 			(uuid "03cc1a64-bac5-45fc-a0d7-7267b9952eaa")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -68099,6 +68649,17 @@
 			(uuid "07cdcc51-047c-450f-99e0-e01d73cce6ba")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -69306,6 +69867,17 @@
 			(uuid "95d16f7c-fb8c-442f-9cd8-6dcca49b36d0")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -70975,6 +71547,17 @@
 			(uuid "6755f5e6-74f3-48d9-a848-17bbe32b2729")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -72759,6 +73342,17 @@
 			(uuid "8b08f1ba-a4c3-43f3-b4a7-c08096a475b1")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -73960,6 +74554,17 @@
 			(uuid "56d28944-b2c7-40e1-904c-adebc442b3c4")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -74705,6 +75310,17 @@
 			(uuid "e1abfd14-feb4-49fc-b4a8-6efb7e0ca21a")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -75760,6 +76376,17 @@
 			(uuid "0be69856-2362-4408-826a-def8c7200828")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -78207,6 +78834,17 @@
 			(uuid "52d0837b-26af-4b51-90dd-ea6f3b82624d")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -79262,6 +79900,17 @@
 			(uuid "e3810a50-47fc-447b-a8b1-626816bbff39")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -80469,6 +81118,17 @@
 			(uuid "5beae450-9fe1-4540-9443-be5425b06174")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -81676,6 +82336,17 @@
 			(uuid "cd7c5888-9f70-4578-93fa-b3e91f345152")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -82421,6 +83092,17 @@
 			(uuid "ad49dba8-b404-48cd-80ee-a62453497a61")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -84090,6 +84772,17 @@
 			(uuid "8e14089b-f6d3-4f29-9320-a9b4bff66ed7")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -85139,6 +85832,17 @@
 			(uuid "b714355d-9194-48f0-b30c-b4ba845fdfc3")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -86808,6 +87512,17 @@
 			(uuid "83f73ed7-a93a-4912-a3a3-315b1c4164df")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -88325,6 +89040,17 @@
 			(uuid "d2d8f4d9-bbcd-4e0d-92f1-77c653f23344")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -89836,6 +90562,17 @@
 			(uuid "0fe9255a-fd45-45cf-847c-31dc69505737")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -91195,6 +91932,17 @@
 			(uuid "9a2abc01-fbc4-4f3a-8c02-8b79cf157d07")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -92250,6 +92998,17 @@
 			(uuid "9651dce4-5cb7-4182-a43d-7ae1e018c45d")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -93615,6 +94374,17 @@
 			(uuid "c535dd18-d3b2-4096-9310-444d01e60442")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -94360,6 +95130,17 @@
 			(uuid "2a23c745-3234-4914-9e6d-f67d8b23507f")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -96187,6 +96968,17 @@
 			(uuid "21eaa0f8-81f2-4d36-84cb-82a3f03f0a31")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -97540,6 +98332,17 @@
 			(uuid "52fc51d0-6bf8-4847-9301-8e2bb4f17087")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -98595,6 +99398,17 @@
 			(uuid "672d95cd-5165-48d8-b706-d6c2a18bf3f7")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -99492,6 +100306,17 @@
 			(uuid "17d1320a-e8e1-4b8a-b6a3-9606e9af596f")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -100851,6 +101676,17 @@
 			(uuid "389ea6d8-83fa-4c0b-88aa-e279e854eb9a")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -102210,6 +103046,17 @@
 			(uuid "7271c612-fab2-466d-9e49-1643f969c073")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -104651,6 +105498,17 @@
 			(uuid "05ab4f06-f2eb-4a69-8eed-e23449702544")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -105396,6 +106254,17 @@
 			(uuid "15b7d45b-c120-4331-9f99-d4559f72f731")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "RF_Module:WEMOS_D1_mini_light"
 		(layer "F.Cu")
@@ -108432,6 +109301,17 @@
 			(uuid "b299c3f6-0f81-4ead-a8a3-99db94863b50")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -109791,6 +110671,17 @@
 			(uuid "d85cd09c-f074-48e4-a633-7f14903b84f0")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -112443,6 +113334,17 @@
 			(uuid "dcfa35e2-ef90-4684-bb6f-b033d0484045")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -114422,6 +115324,17 @@
 			(uuid "9cb2c6d4-331f-41c1-94f6-d3d2e369a8ea")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -115167,6 +116080,17 @@
 			(uuid "2a1476a4-7fed-4f8b-871e-8589e3f8dfbd")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -116836,6 +117760,17 @@
 			(uuid "20acddc7-f804-4bb1-a5d9-fbe2a7d03a0d")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -117733,6 +118668,17 @@
 			(uuid "6358159c-39c7-441b-8a23-0e489d87d58a")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -120570,6 +121516,17 @@
 			(uuid "cfcea539-e6ca-4ed5-98c8-d3b44651263b")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -121625,6 +122582,17 @@
 			(uuid "6f94e3b6-0184-4694-8e07-fd48c6869703")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -122832,6 +123800,17 @@
 			(uuid "c92a7073-7e36-4b76-aee4-65399ede233b")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -125121,6 +126100,17 @@
 			(uuid "ac4ed7c9-2616-4e9b-a4f1-6cb01c5e8f1a")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -125866,6 +126856,17 @@
 			(uuid "42df7826-72c6-4e69-9bb4-7224318a4e0a")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -127073,6 +128074,17 @@
 			(uuid "90c642bd-c231-4290-a1d3-c9fd52afabf8")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -128818,6 +129830,17 @@
 			(uuid "51644525-278c-4fef-87b6-fc50a1237235")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -129563,6 +130586,17 @@
 			(uuid "605e3622-b983-42e9-ba7b-d79932be678b")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -131080,6 +132114,17 @@
 			(uuid "6234f5f8-432c-43d9-97b8-fe3464e18f45")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -131825,6 +132870,17 @@
 			(uuid "c26d8dc0-0f0d-4ce2-b0bf-5d96627d26d4")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
@@ -132880,6 +133936,17 @@
 			(uuid "04058977-ad77-41db-85ba-687847556d72")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -133625,6 +134692,17 @@
 			(uuid "9b957824-f0b5-4f66-b340-5d890b21156a")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
 		(layer "F.Cu")
@@ -134370,6 +135448,17 @@
 			(uuid "fd8600f8-cdc5-4d75-a2bf-b6a6c60bbdea")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Oscillator:Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm"
 		(layer "F.Cu")
@@ -135345,6 +136434,17 @@
 			(uuid "7d5f50ce-022f-44a3-85a5-8639e402b31f")
 		)
 		(embedded_fonts no)
+		(model "/home/deck/00000/kicad_libs/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
