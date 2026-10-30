@@ -20929,7 +20929,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0da1a94c-6584-487e-a101-87fa57f7d671")
-		(property "Reference" "D5"
+		(property "Reference" "D6"
 			(at 209.55 52.0699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21015,7 +21015,7 @@
 		(instances
 			(project "schema_2"
 				(path "/684f36b5-8ccc-4bbc-873e-3d1c5cfac569"
-					(reference "D5")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -25198,7 +25198,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e3028eb-41ef-4f3c-bab4-0a6947f9e908")
-		(property "Reference" "D9"
+		(property "Reference" "D10"
 			(at 331.47 52.0699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25284,7 +25284,7 @@
 		(instances
 			(project "schema_2"
 				(path "/684f36b5-8ccc-4bbc-873e-3d1c5cfac569"
-					(reference "D9")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -29680,7 +29680,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d6e9926-51b1-47c2-9dda-948d054d105b")
-		(property "Reference" "D6"
+		(property "Reference" "D7"
 			(at 240.03 52.0699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29766,7 +29766,7 @@
 		(instances
 			(project "schema_2"
 				(path "/684f36b5-8ccc-4bbc-873e-3d1c5cfac569"
-					(reference "D6")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -45499,7 +45499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6df538fe-7717-4288-b342-ec8c59dcb214")
-		(property "Reference" "D10"
+		(property "Reference" "D5"
 			(at 179.07 52.0699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45585,7 +45585,7 @@
 		(instances
 			(project "schema_2"
 				(path "/684f36b5-8ccc-4bbc-873e-3d1c5cfac569"
-					(reference "D10")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -73020,7 +73020,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1139a5b-4b29-463b-b881-4bc21bcfb7fc")
-		(property "Reference" "D7"
+		(property "Reference" "D8"
 			(at 270.51 52.0699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73106,7 +73106,7 @@
 		(instances
 			(project "schema_2"
 				(path "/684f36b5-8ccc-4bbc-873e-3d1c5cfac569"
-					(reference "D7")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -74359,7 +74359,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6f906e6-d75d-42ae-b303-5ba35eab6588")
-		(property "Reference" "D8"
+		(property "Reference" "D9"
 			(at 300.99 52.0699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -74445,7 +74445,7 @@
 		(instances
 			(project "schema_2"
 				(path "/684f36b5-8ccc-4bbc-873e-3d1c5cfac569"
-					(reference "D8")
+					(reference "D9")
 					(unit 1)
 				)
 			)
