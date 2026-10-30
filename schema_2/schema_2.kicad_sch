@@ -19960,7 +19960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 228.6 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -21514,7 +21514,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 289.56 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -22713,7 +22713,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 106.68 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -23823,7 +23823,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 259.08 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -24487,7 +24487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 167.64 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -26807,7 +26807,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 228.6 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -26978,7 +26978,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 228.6 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -27255,7 +27255,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 259.08 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -27742,7 +27742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 106.68 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -28961,7 +28961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 228.6 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -29696,7 +29696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 289.56 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -30117,7 +30117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 45.72 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -31424,7 +31424,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 106.68 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -31610,7 +31610,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 76.2 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -33047,7 +33047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 320.04 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -33233,7 +33233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 289.56 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -37681,7 +37681,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 76.2 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -38482,7 +38482,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 137.16 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -38575,7 +38575,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 167.64 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -38850,7 +38850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 45.72 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -40587,7 +40587,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 259.08 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -48098,7 +48098,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 198.12 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -50283,7 +50283,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 167.64 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -50705,7 +50705,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 289.56 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -50798,7 +50798,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 45.72 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -53489,7 +53489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 198.12 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -54699,7 +54699,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 320.04 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -56682,7 +56682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 259.08 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -58463,7 +58463,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 45.72 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -58712,7 +58712,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 137.16 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -59136,7 +59136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 320.04 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -59387,7 +59387,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 198.12 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -59560,7 +59560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 167.64 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -60663,7 +60663,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 320.04 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -62475,7 +62475,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 137.16 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -63758,7 +63758,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 320.04 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -63955,7 +63955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 228.6 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -65957,7 +65957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 259.08 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -66289,7 +66289,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 76.2 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -67724,7 +67724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 106.68 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -67895,7 +67895,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 198.12 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -72099,7 +72099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 289.56 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -72727,7 +72727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 76.2 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -73536,7 +73536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 137.16 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -75576,7 +75576,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 137.16 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -76887,7 +76887,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 76.2 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -77556,7 +77556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 45.72 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -80584,7 +80584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 106.68 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -81282,7 +81282,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 167.64 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -81532,7 +81532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E_ROTATE"
+		(property "Footprint" "sw_led:SW_MX_1u_SK6812MINI-E"
 			(at 198.12 287.02 0)
 			(hide yes)
 			(show_name no)
